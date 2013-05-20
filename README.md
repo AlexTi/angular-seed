@@ -92,7 +92,7 @@ Codeship Setup Commands
 
 Codeship Test Commands
 
-    nohup bash -c "karma start &" # start server in background
+    nohup bash -c "karma start &" # start karma in background
     sleep 5 # rest a bit to make it more robust
     karma run
 
