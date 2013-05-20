@@ -87,14 +87,14 @@ info.
 ####Codeship Setup
 
 Codeship Setup Commands
-  
-npm install karma
+
+    npm install karma
 
 Codeship Test Commands
 
-nohup bash -c "karma start &" # start server in background
-sleep 5 # rest a bit to make it more robust
-karma run
+    nohup bash -c "karma start &" # start server in background
+    sleep 5 # rest a bit to make it more robust
+    karma run
 
 
 
