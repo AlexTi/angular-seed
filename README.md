@@ -92,7 +92,8 @@ npm install karma
 
 Codeship Test Commands
 
-karma start & # start server in background
+nohup bash -c "karma start &" # start server in background
+sleep 5 # rest a bit to make it more robust
 karma run
 
 
