@@ -1,3 +1,17 @@
+# Setup on Codeship.io
+####Codeship Setup
+You need to have a karma.conf.js file in your project root.
+
+Codeship Setup Commands
+  
+npm install karma
+
+Codeship Test Commands
+
+nohup bash -c "karma start &" # start server in background
+sleep 5 # rest a bit to make it more robust
+karma run
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
