@@ -9,7 +9,7 @@ Codeship Setup Commands
 Codeship Test Commands
 
     nohup bash -c "karma start &" # start server in background
-    sleep 5 # rest a bit to make it more robust
+    sleep 1 # rest a bit to wait for the server to board the ship
     karma run
 
 # angular-seed — the seed for AngularJS apps
