@@ -12,8 +12,6 @@ files = [
 
 autoWatch = false;
 
-browsers = ['Firefox'];
-
 junitReporter = {
   outputFile: 'test_out/unit.xml',
   suite: 'unit'
