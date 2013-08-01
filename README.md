@@ -1,4 +1,4 @@
-<img href="https://www.codeship.io/projects/30ac22b0-49bf-0130-b0e4-22000a8c0085/status?branch=master" />
+<img src="https://www.codeship.io/projects/30ac22b0-49bf-0130-b0e4-22000a8c0085/status?branch=master" />
 
 # Setup on Codeship.io
 ####Codeship Setup
