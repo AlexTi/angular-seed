@@ -1,3 +1,5 @@
+https://www.codeship.io/projects/30ac22b0-49bf-0130-b0e4-22000a8c0085/status?branch=master
+
 # Setup on Codeship.io
 ####Codeship Setup
 You need to have a [karma.conf.js](https://github.com/AlexTi/angular-seed/blob/master/karma.conf.js) file in your project root.
